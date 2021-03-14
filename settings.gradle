@@ -1,2 +1,3 @@
-include ':app'
+include ':recomendation-sdk'
+include ':sample'
 rootProject.name = "recomendation-sdk"
